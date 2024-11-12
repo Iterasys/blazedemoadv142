@@ -75,3 +75,5 @@ Funcionalidade: Comprar Passagem
         | cliente@iterasys.com.br | Laranja24  | N    | email ou senha incorretos | #2 VF Negativo
         | aluno@iterasys.com.br   | Laranja25  | N    | email ou senha incorretos | #3 FV Negativo
         | aluno@iterasys.com.br   | Laranja24  | N    | email ou senha incorretos | #4 FF Negativo
+
+        
