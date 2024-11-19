@@ -48,3 +48,15 @@ As principais:
   - Atualiza o driver em uma pasta, atualizou para todos os projetos
   - Precisa ter uma pasta no computador e apontar nas variaveis de ambiente
     (depende da configuração da máquina para executar)
+
+    To Do:
+    - José e Rafael: Pesquisar mensagem do CDP 131 found 129
+    ---> Depende de atualização da biblioteca do Selenium
+    - Deixar mais lento para visualizar melhor (temporaria)
+    ---> Use o syncronized para realizar uma pausa
+    - Fazer o click na tabela de vôos --> Ok
+    - Conversar sobre DDT via exemplos ou lendo um csv
+    ---> Melhor usar a tabela de Exemplos em Page Objects e BDD
+    ---> Ler CSV pode ser uma opção em scripts mais simples
+
+    Intervalo: Voltaremos 21:27
